@@ -1,6 +1,6 @@
 **Used Car Price Prediction**
 
-This project builds an end-to-end machine learning pipeline to predict used car selling prices based on vehicle and listing attributes.
+End-to-end machine learning pipeline to predict used car selling prices based on vehicle and listing attributes.
 
 ---
 
